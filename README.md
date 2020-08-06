@@ -10,7 +10,7 @@
 * Article Page
 * Contact Page
 
-#### Tech
+#### Features
 
 * Exist modal page
 
