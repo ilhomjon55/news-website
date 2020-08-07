@@ -2,7 +2,10 @@
 
 #### Name:
 > Namanganliklar24
-   
+
+#### Link:
+https://ilhomjon55.github.io/news-website/
+
 #### Contain: 
 
 * Main Page
@@ -10,11 +13,11 @@
 * Article Page
 * Contact Page
 
-#### Features
+#### Features:
 
 * Exist modal page
 
-#### Tech
+#### Tech:
 
 Used a number of sources and tools:
 
