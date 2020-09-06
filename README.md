@@ -4,7 +4,7 @@
 > Namanganliklar24
 
 #### Link:
-https://ilhomjon55.github.io/news-website/
+https://namanganliklar24.netlify.app/
 
 #### Contain: 
 
